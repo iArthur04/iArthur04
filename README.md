@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @iArthur04
+- 💻 Programmer(group)
 - 👀 I’m interested in HTLM/CSS/JavaScript
 - 🌱 I’m currently learning Mathematics and computer sciences
 - 💞️ I’m looking to collaborate on HTML/CSS/Javascript
